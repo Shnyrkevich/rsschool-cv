@@ -46,6 +46,7 @@ function WorldIgnore() {
 **Experience**
 
 [HTML Academy accaunt](https://htmlacademy.ru/profile/id1313993)
+
 [GitHub accaunt](https://github.com/Shnyrkevich)
 
 **Education**
