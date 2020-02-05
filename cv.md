@@ -25,7 +25,6 @@ I am studying hard and really ready to sell my soul.
     1. C++ (basic knowledge)
     1. JavaScript (basic knowledge)
     1. HTML/CSS (basic knowledge)
-
 * Frameworks:
     1. Node.js/Express (acquainted)
     1. Vue.js/Nuxt.js (acquainted)
