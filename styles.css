@@ -1,0 +1,45 @@
+
+body {
+    display: block;
+    width: 70%;
+    margin: 5px auto;
+    font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+    background-color: #f2f4f6;
+}
+
+.main-block {
+    width: 1024px;
+    background-color: lightblue;
+    border-radius: 5px;
+}
+
+header {
+    padding: 1px;
+    text-align: center;
+}
+
+
+.image-div {
+    text-align: center;
+}
+
+.picture {
+    border-radius: 50%;
+}
+
+p {
+    text-align: center;
+    padding-left: 10px;
+}
+
+code {
+    font-size: 15px;
+}
+
+.exp {
+    padding: 10px;
+}
+
+
+
+
