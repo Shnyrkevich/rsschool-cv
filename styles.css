@@ -1,25 +1,14 @@
 
 body {
     display: block;
-    width: 70%;
     margin: 5px auto;
+    width: 1024px;
     font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+    font-size: 20px;
     background-color: #f2f4f6;
 }
 
-.main-block {
-    width: 1024px;
-    background-color: lightblue;
-    border-radius: 5px;
-}
-
 header {
-    padding: 1px;
-    text-align: center;
-}
-
-
-.image-div {
     text-align: center;
 }
 
@@ -32,13 +21,20 @@ p {
     padding-left: 10px;
 }
 
-code {
-    font-size: 15px;
+pre {
+    border-radius: 10px;
+    background-color:lightblue;
+    font-size: 1.5rem;
 }
 
 .exp {
-    padding: 10px;
+    padding-left: 35px;
 }
+
+footer{
+    text-align: right;
+}
+
 
 
 
